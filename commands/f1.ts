@@ -33,7 +33,7 @@ export default {
       `Fumante de 💩, vc já fumou ${targetUser.joints} baseados nessa porra 👺`,
       `😈 oi anjo, você está no seu ${targetUser.joints}º beck 😈`,
       `Noia do carai jhjjkkk esse é o seu ${targetUser.joints} becksons five nesse server 😳`,
-      `${targetUser.joints} becks ,  ${targetUser.name}... você não tem vergonha? 🤬`,
+      `${targetUser.joints} becks,  ${targetUser.name}... você não tem vergonha? 🤬`,
       `${targetUser.name} fumou ${targetUser.joints} baseados 🥳`,
       `Sua mãe sabe que você fumou ${targetUser.joints} baseados aqui? 👻`,
       `⏰⏰⏰ hora de você dar um tempo!! Já fumou ${targetUser.joints} baseados ⏰⏰⏰`,
